@@ -42,6 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="RubberDuck.cs" />
+    <Compile Include="WoodenDuck.cs" />
+    <Compile Include="SimpleDuck.cs" />
+    <Compile Include="Duckbase.cs" />
+    <Compile Include="Iflyable.cs" />
+    <Compile Include="Iquackable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
